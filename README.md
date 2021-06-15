@@ -2,5 +2,5 @@
 ### ShminkedIn is a ShlinkedIn Parody
 
 # ShminkedIN is NOT ShlinkedIn!
-![](shminkedin.png)
+![](shminkedin2.png)
 ![](bolle.png)
